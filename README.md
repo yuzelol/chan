@@ -1,3 +1,3 @@
-##chan.ge
+#chan.ge
 
 anonymous image board with a twist
