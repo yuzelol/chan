@@ -1,0 +1,55 @@
+.lp-container {
+  display: flex;
+}
+.lp-left {
+  min-width: 70%;
+  height: 100vh;
+}
+.lp-text {
+  position: relative;
+  top: 12.5%;
+}
+.lp-logo {
+  text-align: right;
+  color: #49a5ce;
+  font-size: 6em;
+  padding: 48px;
+  padding-bottom: 32px;
+  font-weight: 500;
+}
+.lp-slogan {
+  padding-right: 48px;
+  font-size: 1.75em;
+  color: #49a5ce;
+  text-align: right;
+}
+
+.lp-right {
+  background: #ecf7fc;
+  width: 100%;
+  height: 100vh;
+}
+.lp-options {
+  position: relative;
+  top: 20.5%;
+  height: 50%;
+  width: 80%;
+  font-size: 1.75em;
+}
+.lp-item {
+  display: flex;
+  margin-bottom: 24px;
+  cursor: pointer;
+}
+.lp-item:hover {
+  color: #49a5ce;
+}
+.lp-item-left {
+  width: 70%;
+  text-align: right;
+  font-weight: 500;
+}
+.lp-item-right {
+  width: 30%;
+  text-align: right;
+}
